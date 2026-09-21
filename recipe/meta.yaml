@@ -10,7 +10,7 @@ source:
   sha256: f5dfb6d29d41626f0d9b871793042a4e6bed83de2309f2a7036b5078952e0252
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - univi = univi.cli:main
